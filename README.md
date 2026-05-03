@@ -23,8 +23,6 @@ I am an **Automation & Integration Engineer** specializing in **Microsoft Power 
 
 I design and build scalable solutions that connect systems, reduce manual work, improve operational visibility, and transform business processes into intelligent digital workflows.
 
-My work focuses on practical business impact — from automating IT operations and compliance tracking to building AI-powered applications, CI/CD pipelines, monitoring systems, and API-based integrations.
-
 ---
 
 ## 🚀 Core Focus
@@ -42,34 +40,16 @@ My work focuses on practical business impact — from automating IT operations a
 
 <div align="center">
 
-### Core Platforms
-
 ![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-1F6FEB?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Dataverse](https://img.shields.io/badge/Dataverse-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### Integration & APIs
-
-![REST API](https://img.shields.io/badge/REST%20API-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-161B22?style=for-the-badge&logo=json&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-742774?style=for-the-badge&logo=webhooks&logoColor=white)
-
-### Cloud, DevOps & Data
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### AI & Automation
-
-![AI Builder](https://img.shields.io/badge/AI%20Builder-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure%20AI-1F6FEB?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
 
@@ -78,74 +58,77 @@ My work focuses on practical business impact — from automating IT operations a
 ## 🔥 Featured Projects
 
 ### 🤖 AI-Based Hard Disk Disposal Automation
-
-AI-powered Power Apps solution using AI Builder to extract, validate, and track hard disk serial numbers for disposal and audit compliance.
-
-**Impact:** Reduced manual input by **90%**, improved accuracy to **98%**, and reduced audit preparation time by **50%**.
-
-**Tech:** Power Apps · Power Automate · AI Builder · Azure AI
-
-[Source Code](#)
+Reduced manual input by **90%**, improved accuracy to **98%**, and accelerated audit readiness.
 
 ---
 
 ### 🔄 Power Platform CI/CD Pipeline
-
-Automated Power Platform solution export, validation, and deployment using GitHub workflows.
-
-**Impact:** Reduced manual deployment effort by **70%** and improved release consistency.
-
-**Tech:** Power Automate · GitHub · CI/CD · ALM
-
-[Source Code](#)
+Reduced deployment effort by **70%** and improved release consistency.
 
 ---
 
-### 🧩 Bi-Directional Ticketing System Integration
-
-Real-time synchronization between multiple ticketing platforms using REST APIs, webhooks, retry logic, and conflict handling.
-
-**Impact:** Achieved **99%+ data consistency** across distributed systems.
-
-**Tech:** REST API · Webhooks · JSON · Power Automate
-
-[Source Code](#)
+### 🧩 Ticketing System Integration
+Achieved **99%+ data consistency** across distributed systems.
 
 ---
 
-### 🖥️ Automated Device Lifecycle Monitoring
-
-Centralized monitoring solution aggregating device and compliance data from multiple enterprise systems.
-
-**Impact:** Reduced manual monitoring effort by **90%** and improved device visibility.
-
-**Tech:** Power Automate · Microsoft Graph API · REST API
-
-[Source Code](#)
-
----
-
-### 🔐 MFA Compliance Monitoring
-
-Automated MFA compliance tracking using Microsoft Graph API and Power Platform dashboards.
-
-**Impact:** Improved security visibility and enabled faster remediation.
-
-**Tech:** Microsoft Graph API · Power Automate · Power Apps
-
-[Source Code](#)
+### 🖥️ Device Lifecycle Monitoring
+Reduced manual monitoring effort by **90%**.
 
 ---
 
 ## 🧠 My Engineering Approach
 
-```text
-Business Problem
-      ↓
-Solution Architecture
-      ↓
-Automation & Integration Design
-      ↓
-Error Handling + Monitoring
-      ↓
-Business Impact Measurement
+Business Problem  
+↓  
+Solution Architecture  
+↓  
+Automation & Integration Design  
+↓  
+Error Handling + Monitoring  
+↓  
+Business Impact Measurement  
+
+---
+
+## 🏅 Certifications & Achievements
+
+| Certification | Issuer | Platform | Date | Credential |
+|--------------|--------|----------|------|------------|
+| Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Microsoft | Microsoft Learn | Feb 2025 | [Verify](#) |
+| Microsoft Certified: Azure Data Fundamentals (DP-900) | Microsoft | Microsoft Learn | Dec 2024 | [Verify](#) |
+| Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | Microsoft Learn | Jul 2024 | [Verify](#) |
+| Microsoft Certified: Power Platform Functional Consultant (PL-200) | Microsoft | Microsoft Learn | Jul 2024 | [Verify](#) |
+| Microsoft Certified: Power Platform App Maker Associate (PL-100) | Microsoft | Microsoft Learn | Jan 2024 | [Verify](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+| Area | Progress | Status |
+|------|----------|--------|
+| ⚡ Power Platform Architecture | ████████████████████░░ | Advanced |
+| 🧩 REST API & System Integration | ████████████████████░░ | Advanced |
+| 🤖 AI-Driven Workflow Automation | ████████████████░░░░░░ | Advanced |
+| 🔄 CI/CD & ALM (Power Platform) | ███████████████░░░░░░░ | Intermediate+ |
+| ☁️ Azure & Cloud Integration | ██████████████░░░░░░░░ | Intermediate+ |
+| 🏗️ Solution Architecture & Design | ███████████████░░░░░░░ | Growing |
+
+---
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%" />
+
+</div>
