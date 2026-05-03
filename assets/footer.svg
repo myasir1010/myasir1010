@@ -1,0 +1,10 @@
+<svg width="854" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 100">
+  <defs>
+    <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#742774"></stop>
+      <stop offset="50%" stop-color="#1F6FEB"></stop>
+      <stop offset="100%" stop-color="#0D1117"></stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#footerGradient)" opacity="0.8" d="M0 40 Q213.5 80 427 50 T854 60 L854 100 L0 100 Z"></path>
+</svg>

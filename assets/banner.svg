@@ -1,0 +1,108 @@
+<svg width="854" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200" style="z-index:1;position:relative">
+  <style>
+    .text {
+      font-size: 44px;
+      font-weight: 800;
+      font-family: 'Segoe UI', 'Inter', 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
+      letter-spacing: 0.5px;
+      animation: fadeIn 1.2s ease-in-out forwards, floatText 6s ease-in-out infinite;
+      text-shadow: 0 0 18px rgba(88, 166, 255, 0.55);
+    }
+
+    .desc {
+      font-size: 16px;
+      font-weight: 500;
+      font-family: 'Segoe UI', 'Inter', 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
+      letter-spacing: 0.3px;
+      animation: fadeIn 1.6s ease-in-out forwards;
+      text-shadow: 0 0 10px rgba(88, 166, 255, 0.35);
+    }
+
+    .divider {
+      animation: fadeIn 1.8s ease-in-out forwards;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(6px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes floatText {
+      0% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-3px);
+      }
+      100% {
+        transform: translateY(0);
+      }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="premiumGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#111827;#0D1117" dur="12s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="42%" stop-color="#161B22">
+        <animate attributeName="stop-color" values="#161B22;#1E293B;#161B22" dur="12s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="72%" stop-color="#1F6FEB">
+        <animate attributeName="stop-color" values="#1F6FEB;#3B82F6;#2563EB;#1F6FEB" dur="12s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#742774">
+        <animate attributeName="stop-color" values="#742774;#7C3AED;#4F46E5;#742774" dur="12s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="70%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.28"></stop>
+      <stop offset="55%" stop-color="#7C3AED" stop-opacity="0.12"></stop>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"></stop>
+    </radialGradient>
+  </defs>
+
+  <rect width="854" height="200" fill="#0D1117"></rect>
+
+  <circle cx="620" cy="75" r="190" fill="url(#glow)">
+    <animate attributeName="cx" values="600;660;600" dur="18s" repeatCount="indefinite"></animate>
+    <animate attributeName="r" values="170;210;170" dur="18s" repeatCount="indefinite"></animate>
+  </circle>
+
+  <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+    <path fill="url(#premiumGradient)" opacity="0.55">
+      <animate attributeName="d" dur="30s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" values="
+          M0 0L0 122Q213.5 160 427 132T854 156L854 0Z;
+          M0 0L0 145Q213.5 162 427 140T854 130L854 0Z;
+          M0 0L0 165Q213.5 135 427 165T854 132L854 0Z;
+          M0 0L0 122Q213.5 160 427 132T854 156L854 0Z
+        "></animate>
+    </path>
+
+    <path fill="url(#premiumGradient)" opacity="0.38">
+      <animate attributeName="d" dur="34s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-12s" values="
+          M0 0L0 136Q213.5 180 427 150T854 160L854 0Z;
+          M0 0L0 150Q213.5 120 427 122T854 142L854 0Z;
+          M0 0L0 145Q213.5 125 427 150T854 166L854 0Z;
+          M0 0L0 136Q213.5 180 427 150T854 160L854 0Z
+        "></animate>
+    </path>
+  </g>
+
+  <text text-anchor="middle" alignment-baseline="middle" x="50%" y="35%" class="text" fill="#FFFFFF">
+    Muhammad Yasir
+  </text>
+
+  <line x1="34%" x2="66%" y1="48%" y2="48%" stroke="#58A6FF" stroke-width="1" opacity="0.45" class="divider"></line>
+
+  <text text-anchor="middle" alignment-baseline="middle" x="50%" y="61%" class="desc" fill="#C9D1D9">
+    Automation &amp; Integration Engineer • AI-Driven Systems • Microsoft Power Platform
+  </text>
+</svg>
