@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-myasir.id-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.myasir.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Yasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mysir)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-742774?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadyasircesc24@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1F6FEB)
+![Profile Views](https://komarev.com/ghpvc/?username=myasir1010&style=for-the-badge&color=1F6FEB)
 
 </div>
 
@@ -107,8 +107,8 @@ Business Impact Measurement
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=myasir1010&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=myasir1010&theme=github-dark-blue&hide_border=true" width="48%" />
 
 </div>
 
