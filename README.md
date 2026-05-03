@@ -106,7 +106,6 @@ Automated MFA tracking using Microsoft Graph API and Power Platform.
 - Automation & integration projects
 - AI-powered workflow solutions
 - Freelance and collaboration opportunities
-- International roles in Malaysia, Singapore, Indonesia, and remote-friendly teams
 
 ---
 
